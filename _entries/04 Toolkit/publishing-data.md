@@ -18,7 +18,8 @@ The focus of this guide will be generic, easily uploadable datasets such as CSVs
 The general process for uploading a dataset is as follows:
 
 1. Identify datasets to publish
-2. Export the data and ensure it is cleaned, raw data
-3. Apply an appropriate license
-4. List the dataset to data.govt.nz, providing metadata
-5. Schedule regular updates
+2. Export the data and ensure it is cleaned, machine-readable data
+3. Publish the data (make it accessible on the internet as a file to download or via an API/web service)
+4. Apply an appropriate license
+5. List the dataset to data.govt.nz, providing metadata
+6. Schedule regular updates
