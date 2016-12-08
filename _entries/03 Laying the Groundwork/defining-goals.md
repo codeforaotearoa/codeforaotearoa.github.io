@@ -14,3 +14,6 @@ You should ask yourself
   - What makes Open Data important for your agency?
   - What would a successful Open Data initiative look like?
   - What existing needs and priorities does your organisation have, that can be supported by Open Data?
+
+For example: 
+Public trust and confidence and being able to work closely with well-informed communities are two things critical to Police. Open data is now a key contributor to Police achieving both these goals.
