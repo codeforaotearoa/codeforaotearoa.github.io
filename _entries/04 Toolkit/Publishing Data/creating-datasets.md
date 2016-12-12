@@ -1,8 +1,8 @@
 ---
-sectionid: creating-datasets
+sectionid: listing-datasets
 sectionclass: h3
 parent-id: publishing-data
-title: Creating the Datasets
+title: Listing the Datasets
 number: 4130
 ---
 
